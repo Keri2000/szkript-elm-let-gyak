@@ -1,1 +1,1 @@
-# szkript-elm-let-gyak
+# szkript-elmelet-gyak
